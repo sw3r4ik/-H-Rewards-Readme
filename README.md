@@ -4,7 +4,7 @@
 
 Discord-бот с квестами, достижениями, Battle Pass и наградами.
 
-- [Правила использования](https://sw3r4ik.github.io/-H-Rewards-Readme/terms.html)
-- [Политика конфиденциальности](https://sw3r4ik.github.io/-H-Rewards-Readme/privacy.html)
+- [Правила использования](./terms.html)
+- [Политика конфиденциальности](./privacy.html)
 
 Поддержка: https://discord.gg/uuPVFZSccF
